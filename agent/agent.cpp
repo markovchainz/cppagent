@@ -318,6 +318,8 @@ const string Agent::on_request (const incoming_things& incoming,
 {
   string result;
   outgoing.headers["Content-Type"] = "text/xml";
+  outgoing.headers["Access-Control-Allow-Origin"] = "*";
+  
   try 
   {
     sLogger << LDEBUG << "Request: " << incoming.request_type << " " << 
