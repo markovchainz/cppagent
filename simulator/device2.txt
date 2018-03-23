@@ -1,0 +1,17 @@
+51|avail|AVAILABLE
+42|execution|INTERRUPTED
+53|mode|AUTOMATIC
+35|tool_id|60
+37|execution|ACTIVE
+48|mode|MDI
+25|execution|STOPPED
+72|program|Tap|execution|READY
+50|tool_id|2
+55|execution|ACTIVE
+38|execution|READY
+44|avail|UNAVAILABLE
+52|mode|AUTOMATIC
+75|tool_id|3
+43|program|Countersink|execution|ACTIVE
+23|tool_id|2
+62|execution|READY
