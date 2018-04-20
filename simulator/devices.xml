@@ -5,8 +5,8 @@
 		<Device id="device1" iso841Class="6" name="device1" sampleInterval="10" uuid="device1">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device1_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device1_post" type="POST"/>
+				<DataItem category="EVENT" id="device1_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device1_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -115,8 +115,8 @@
         <Device id="device2" iso841Class="6" name="device2" sampleInterval="10" uuid="device2">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device2_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device2_post" type="POST"/>
+				<DataItem category="EVENT" id="device2_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device2_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -225,8 +225,8 @@
         <Device id="device3" iso841Class="6" name="device3" sampleInterval="10" uuid="device3">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device3_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device3_post" type="POST"/>
+				<DataItem category="EVENT" id="device3_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device3_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -335,8 +335,8 @@
         <Device id="device4" iso841Class="6" name="device4" sampleInterval="10" uuid="device4">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device4_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device4_post" type="POST"/>
+				<DataItem category="EVENT" id="device4_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device4_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -445,8 +445,8 @@
         <Device id="device5" iso841Class="6" name="device5" sampleInterval="10" uuid="device5">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device5_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device5_post" type="POST"/>
+				<DataItem category="EVENT" id="device5_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device5_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -555,8 +555,8 @@
         <Device id="device6" iso841Class="6" name="device6" sampleInterval="10" uuid="device6">
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
-				<DataItem category="EVENT" id="device6_avail" type="AVAILABILITY"/>
-				<DataItem category="EVENT" id="device6_post" type="POST"/>
+				<DataItem category="EVENT" id="device6_avail" name="avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device6_post" name="post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
