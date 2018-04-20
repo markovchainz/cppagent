@@ -6,6 +6,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device1_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device1_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -115,6 +116,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device2_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device2_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -224,6 +226,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device3_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device3_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -333,6 +336,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device4_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device4_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -442,6 +446,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device5_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device5_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
@@ -551,6 +556,7 @@
 			<Description manufacturer="SystemInsights"/>
 			<DataItems>
 				<DataItem category="EVENT" id="device6_avail" type="AVAILABILITY"/>
+				<DataItem category="EVENT" id="device6_post" type="POST"/>
 			</DataItems>
 			<Components>
 				<Axes id="ax" name="Axes">
