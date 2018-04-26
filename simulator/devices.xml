@@ -79,7 +79,7 @@
 								<DataItem category="SAMPLE" id="device1_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device1_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device1_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
@@ -189,7 +189,7 @@
 								<DataItem category="SAMPLE" id="device2_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device2_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device2_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
@@ -299,7 +299,7 @@
 								<DataItem category="SAMPLE" id="device3_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device3_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device3_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
@@ -409,7 +409,7 @@
 								<DataItem category="SAMPLE" id="device4_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device4_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device4_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
@@ -519,7 +519,7 @@
 								<DataItem category="SAMPLE" id="device5_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device5_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device5_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
@@ -629,7 +629,7 @@
 								<DataItem category="SAMPLE" id="device6_Frt" nativeUnits="MILLIMETER/SECOND" type="PATH_FEEDRATE" units="MILLIMETER/SECOND">
 									<Source>path_feedrate</Source>
 								</DataItem>
-								<DataItem category="SAMPLE" id="device6_Fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
+								<DataItem category="SAMPLE" id="device6_fovr" nativeUnits="PERCENT" type="PATH_FEEDRATE" units="PERCENT">
 									<Source>feed_ovr</Source>
 								</DataItem>
 							</DataItems>
