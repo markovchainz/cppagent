@@ -7,6 +7,9 @@
 #error "DLIB_ISO_CPP_ONLY is defined so you can't use this OS dependent code.  Turn DLIB_ISO_CPP_ONLY off if you want to use it."
 #endif
 
+#ifndef PATH_MAX
+#define PATH_MAX 4096
+#endif
 
 #include "dir_nav_kernel_abstract.h"
 
